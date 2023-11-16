@@ -1,1 +1,1 @@
-(()=>{var r={4:r=>{r.exports="변호녕"}},o={};function t(e){var s=o[e];if(void 0!==s)return s.exports;var n=o[e]={exports:{}};return r[e](n,n.exports,t),n.exports}(()=>{const r=t(4);console.log(r)})()})();
+(()=>{var o={4:o=>{o.exports="변호녕"},551:o=>{const r=console.log("반갑다, 번들링!");o.exports=r}},r={};function s(t){var e=r[t];if(void 0!==e)return e.exports;var n=r[t]={exports:{}};return o[t](n,n.exports,s),n.exports}(()=>{const o=s(4);console.log(o);const r=s(551);console.log(r)})()})();
